@@ -33,13 +33,6 @@ A complete decentralized banking ecosystem on **Sepolia Testnet**.
 
 ---
 
-### 📈 GitHub Stats
-
-![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morulo90&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morulo90&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Connect with me
 
 * Always open to discuss **DeFi**, **Security**, and **Smart Contracts**.
