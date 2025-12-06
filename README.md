@@ -1,6 +1,6 @@
 ### Hi there, I'm Rubén 👋
 
-**Full Stack Web3 Developer | Smart Contract Engineer**
+**IT Specialist | Blockchain & Smart Contract Developer | Solidity, React, Hardhat, TypeScript**
 
 I am a passionate developer bridging the gap between traditional web technologies and the decentralized future. My journey is focused on building secure, scalable DApps and exploring the potential of DeFi and NFTs.
 
