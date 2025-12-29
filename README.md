@@ -2,8 +2,9 @@
 
 **IT Specialist | Blockchain & Smart Contract Developer | Solidity, React, Hardhat, TypeScript**
 
-I am a passionate developer bridging the gap between traditional web technologies and the decentralized future. My journey is focused on building secure, scalable DApps and exploring the potential of DeFi and NFTs.
-
+I focus on blockchain engineering with an emphasis on secure smart contracts,
+testing, and blockchain tooling. I'm particularly interested in protocol-level
+development and system reliability.
 ---
 
 ### 🛠️ Tech Stack
@@ -24,12 +25,16 @@ I am a passionate developer bridging the gap between traditional web technologie
 
 ### 🚀 Featured Projects
 
-#### 🏦 [NiniCoin DeFi Ecosystem](https://github.com/Morulo90/Block-chain)
-A complete decentralized banking ecosystem on **Sepolia Testnet**.
-* **Token:** ERC-20 standard implementation (NiniCoin).
-* **ICO/Crowdsale:** Decentralized vending machine with ownership controls.
-* **DApp:** React frontend with real-time wallet connection and Dark Mode UI.
-* **NFT:** ERC-721 "DiplomaWeb3" collection for certified developers.
+- **NiniCoin DeFi Ecosystem**
+  Full-stack Web3 dApp on Sepolia (ERC20, ICO, NFT, Dashboard).
+
+- **Secure Contracts Pack** *(in progress)*
+  ERC20, Timelock and Escrow contracts with full unit test coverage.
+
+- **Blockchain Monitoring Tool** *(planned)*
+  Off-chain tooling to monitor events, balances and anomalies on Ethereum networks.
+
+
 
 ---
 
