@@ -5,7 +5,6 @@
 I focus on blockchain engineering with an emphasis on secure smart contracts,
 testing, and blockchain tooling. I'm particularly interested in protocol-level
 development and system reliability.
----
 
 ### 🛠️ Tech Stack
 
